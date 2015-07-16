@@ -6,12 +6,12 @@
 /*  D. Turner, R.Wilhelm, and W. Lemberg                                    */
 /*                                                                          */
 /*                                                                          */
-/*  aux.c - auxiliary routines for the FreeType demo programs.              */
+/*  aux_.c - auxiliary routines for the FreeType demo programs.              */
 /*                                                                          */
 /****************************************************************************/
 
 
-#include "aux.h"
+#include "aux_.h"
 
 
   /*************************************************************************/
